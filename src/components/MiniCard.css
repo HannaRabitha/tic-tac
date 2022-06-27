@@ -1,0 +1,15 @@
+.minicard {
+    font-family: 'Roboto';
+    text-align: center;
+    justify-content: space-between;
+  }
+
+.txtcard {
+  color: #7A1FA0;
+  padding: "5px"; 
+  width: "80px";
+  background-color: #FFBB0A; 
+  margin: "10px" ;
+  border-radius: 20px;
+}
+  
